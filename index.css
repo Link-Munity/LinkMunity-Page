@@ -16,16 +16,3 @@ body{
 }
 
 
-  /* Estilos gerais para o modo claro */
-  body.light {
-    @apply bg-white text-gray-900;
-  }
-
-  body.light .card {
-    @apply bg-gray-100 text-gray-800 border-gray-300;
-  }
-
-  body.light header, body.light footer {
-    @apply bg-white text-gray-900;
-  }
-
